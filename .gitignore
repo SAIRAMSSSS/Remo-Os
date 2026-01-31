@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.bin
+*.iso
+isodir/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+cmd
